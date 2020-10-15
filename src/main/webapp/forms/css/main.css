@@ -15,6 +15,7 @@
 	width: 357px;
 	margin:auto;
 	background-color:#b9ebd9;
+	list-style:none;
 }
 
 #status span, .user-row-status span{

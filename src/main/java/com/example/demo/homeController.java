@@ -23,7 +23,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 public class homeController {
 	@Autowired
 	personRepository PersonRepository;
-	@RequestMapping("home")
+	@GetMapping("home")
 	public String home() {
 		return "home";
 	}
