@@ -1,0 +1,73 @@
+.bootbtnstyle{
+	padding:2px;
+	border-radius:2px;
+	margin-right:2px;
+	
+}
+
+#login-list{
+	width: 357px;
+	margin:auto;
+	background-color:#b9ebd9;
+	 
+}
+#registration-list{
+	width: 357px;
+	margin:auto;
+	background-color:#b9ebd9;
+}
+
+#status span, .user-row-status span{
+	padding:3px 6px !important;
+	color:white !important;
+	border-radius:10px !important;
+	font-size:11px;
+}
+
+#user-update-table, #user-detail-table,#user-password-table{
+	display:none;
+}
+#user-update-table td, #user-password-table td{
+border:none !important;
+}
+.nopadding{
+	padding:0;
+}
+.searchform input{
+	border-radius:3px;
+	border:1px solid #00759c;
+}
+label{
+	font-weight:lighter;
+	display:block;
+}
+.btncont{
+	margin-top:30px;
+}
+.text-fields{
+	width:80% !important;
+}
+th{
+	border:1px solid #ccc;
+	font-weight:500;
+}
+table{
+	font-size:13px;
+}
+.user-row{
+	cursor:pointer;
+}
+.user-row:hover{
+	background-color:#333 !important;
+	color:white;
+}
+.user-row-black{
+	background-color:#333 !important;
+	color:white;
+}
+
+.btn-container{
+padding:10px 0px;
+border:solid black;
+border-width:0px 0px 1px 0px ;
+}
